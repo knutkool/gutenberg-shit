@@ -1,0 +1,50 @@
+main {
+    max-width: 45rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    box-shadow: 0rem 2rem 2rem ;
+}
+header {
+    text-align: center;
+    
+
+}
+h1 {
+    font-size: 6rem;
+
+}
+.om{
+    list-style: none;
+    justify-content: right;
+
+}
+.topknapp {
+    list-style: none;
+    position: fixed;
+    justify-content: left;
+}
+
+img{
+    max-width: 7rem;
+}
+
+.text {
+    
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+footer {
+    display: flex;
+    gap: 57rem;
+    background-color: whitesmoke;
+    padding: 1rem;
+}
+.im {
+    list-style: none;
+    justify-content: right;
+}
